@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "^0.1.10",
-    "ember-template-compiler": "~1.8.0",
+    "ember-template-compiler": "git+https://github.com/toranb/ember-template-compiler#402ae1873c717a91d94c379f387429eb83229c4a",
     "emblem": "git+https://github.com/machty/emblem.js.git#0416896110f6f6d7eb26a409bcec362a488886a6"
   },
   "devDependencies": {}
