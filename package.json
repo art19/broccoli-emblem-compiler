@@ -4,7 +4,7 @@
   },
   "name": "broccoli-emblem-compiler",
   "description": "Emblem.js precompiler for projects that use broccoli",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "repository": {
     "type": "git",
     "url": "https://github.com/antramm/broccoli-emblem-compiler"
@@ -22,36 +22,8 @@
   ],
   "dependencies": {
     "broccoli-filter": "^0.1.10",
-    "ember-template-compiler": "git+https://github.com/toranb/ember-template-compiler.git",
-    "emblem": "git+https://github.com/machty/emblem.js.git"
+    "ember-template-compiler": "~1.8.0",
+    "emblem": "git+https://github.com/machty/emblem.js.git#0416896110f6f6d7eb26a409bcec362a488886a6"
   },
-  "devDependencies": {},
-  "optionalDependencies": {},
-  "gitHead": "601fcad55fccad71e8c52e05202a342f083a01ab",
-  "bugs": {
-    "url": "https://github.com/antramm/broccoli-emblem-compiler/issues"
-  },
-  "homepage": "https://github.com/antramm/broccoli-emblem-compiler",
-  "_id": "broccoli-emblem-compiler@0.3.18",
-  "scripts": {},
-  "_shasum": "5ce0c12187f79e11648cebd6915beeb55fc18726",
-  "_from": "broccoli-emblem-compiler@^0.3.18",
-  "_npmVersion": "2.0.0-alpha-5",
-  "_npmUser": {
-    "name": "antramm",
-    "email": "antramm@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "antramm",
-      "email": "antramm@gmail.com"
-    }
-  ],
-  "dist": {
-    "shasum": "5ce0c12187f79e11648cebd6915beeb55fc18726",
-    "tarball": "http://registry.npmjs.org/broccoli-emblem-compiler/-/broccoli-emblem-compiler-0.3.18.tgz"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/broccoli-emblem-compiler/-/broccoli-emblem-compiler-0.3.18.tgz",
-  "readme": "ERROR: No README data found!"
+  "devDependencies": {}
 }
